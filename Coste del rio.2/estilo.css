@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2? family= Prata & family= Roboto+Slab:wght@300 & display=swap');
+
+body{ background-color: #231F1E;    
+      width: 100%;
+
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    font-family: 'prata', serif;
+   
+    
+
+
+   
+}
+ a{
+    color: white;
+    width: 100%;
+    text-decoration: none;
+    margin: 50px;
+    font-size: 30px;
+
+   
+  
+
+
+}
+ul li a{ display: block;
+    vertical-align: baseline;
+    
+
+
+}
+
+.COSTEE { display: flex;
+    justify-content: center;
+
+
+   
+    
+         
+
+
+}
+header{
+    background-color: #231F1E;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.AMA { width:100%;
+       top: -40%;
+
+
+
+    
+}
+.btn { background-color: #2A3C7D;/*color letras de fondo carta*/
+    color: #FBF9F5;/* color de letras de carta*/
+    border: none;
+    padding: 20px 20px;
+    text-transform: uppercase;
+    font-family: 'roboto slab', serif;
+    border-radius: 5px;
+    top: 800px;
+    letter-spacing: 1px;
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+footer {background-color: #231F1E;
+    height: 30px;
+    padding: 60px;
+ 
+}
+
+        
+h2{ font-family: 'Roboto Slab', serif;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 8px ;
+}
+h3{ font-family: 'roboto slab', 'serif';
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 9px;
+
+}
+h1 { font-family: 'prata', 'serif';
+    color:#FBF9F5;
+    margin: 5%;
+}
+p { font-family: 'roboto slab','serif';
+    color: #FBF9F5;
+    margin: 5%;
+    font-size: 20px;
+    
+}
+.TRAGO { display: flex;
+    justify-content: right;
+    align-items: end;
+}
+
+.ENTRADAS{ font-family: 'prata', 'serif';
+           font-size: 25px;
+           display: flex;
+           justify-content: center;
+
+}
+.entradasprincipales{ margin-bottom: 10px;
+                      display: inline-block;
+                      margin-block-start: 10px;
+
+
+}
+h4 {font-size: 20px;
+   font-family: 'roboto slab', 'serif';
+   color: #FBF9F5;
+   margin-bottom: 15px;
+   margin-block-start: 20px;
+   padding: 20px;
+   margin-block-end:20px;
+
+}
+.descripcion { font-size: 15px;
+               font-family: 'roboto slab','serif';
+               color: #FBF9F5;
+               display: inline-block;
+               text-align: left;
+               font-weight: lighter;
+               margin-bottom:5px ;
+
+
+}
+
+.precios{ font-size: 14px;
+          font-family:'roboto slab','serif';
+          color: #FBF9F5;
+          text-align: left;
+          font-weight: lighter;
+          margin-bottom:5px ;
+
+
+}
